@@ -4,5 +4,5 @@
 Dom利用して、Emotion Onomatopoeia Dictionaryを作成に挑戦。
 上部の感情ををクリックすると関連するその擬音のカードへジャンプし調べることができます。
 
-# Demo Url
+# Demo URL
 https://emotion-onomatopoeia-dictionary-omega.vercel.app/
